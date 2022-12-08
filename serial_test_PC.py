@@ -8,3 +8,9 @@ while True:
     #if there is smth do smth
     if len(data) >= 1:
         print(data.decode("utf-8"))
+        
+        
+        
+        
+        
+        cycccccc
